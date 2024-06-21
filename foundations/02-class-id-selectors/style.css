@@ -1,0 +1,17 @@
+.odds {
+    background-color: rgb(241, 178, 178);
+    font-family: "Verdana", "DejaVu Sans","sans-serif";
+}
+.treci{
+    font-size: 36px;
+}
+#second{
+    color:rgb(12, 12, 248);
+    font-size: 36px;
+
+}
+#fourth{
+    background-color: rgb(156, 241, 161);
+    font-size: 24px;
+    font-weight: bold;
+}
